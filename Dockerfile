@@ -2,7 +2,7 @@ FROM ubuntu:22.04
 
 LABEL maintainer="Mateus Junior <mateus@matj.dev>"
 
-ENV VNC_SCREEN_SIZE=1024x768
+ENV VNC_SCREEN_SIZE=1920x1080
 
 COPY copyables /
 
