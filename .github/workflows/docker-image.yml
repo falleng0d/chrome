@@ -23,7 +23,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: siomiz/chrome
+          images: falleng0d/chrome
       -
         name: Login to DockerHub
         if: github.event_name != 'pull_request'

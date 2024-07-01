@@ -1,6 +1,6 @@
 FROM ubuntu:22.04
 
-LABEL maintainer="Tomohisa Kusano <siomiz@gmail.com>"
+LABEL maintainer="Mateus Junior <mateus@matj.dev>"
 
 ENV VNC_SCREEN_SIZE=1024x768
 
